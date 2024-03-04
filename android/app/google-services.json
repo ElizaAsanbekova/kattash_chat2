@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064431124844",
+    "project_id": "kat-chat-c5cf0",
+    "storage_bucket": "kat-chat-c5cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064431124844:android:9c3d99180140c1636ef349",
+        "android_client_info": {
+          "package_name": "com.example.kat_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJG8KjUVChRbnbMg8cfScLbvMe3BE8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064431124844:android:0b0f876da42dc41c6ef349",
+        "android_client_info": {
+          "package_name": "com.example.kattash_chat2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJG8KjUVChRbnbMg8cfScLbvMe3BE8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
